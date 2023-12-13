@@ -53,7 +53,6 @@ This project is a simple web application that utilizes OpenAI's GPT-3 to provide
 
 ## Project Structure
 
-    ```bash
     text-completion-tool/
     |-- app.py
     |-- templates/
